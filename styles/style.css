@@ -12,9 +12,6 @@ img {
     max-width: 100%;
 }
 
-
-
-
 .banner {
     background-image: url('../images/banner/banner2.png');
     padding: 380px;
@@ -48,9 +45,6 @@ img {
 .banner-content p {
     padding: 20px 0;
 }
-
-
-
 
 .my-endorsements {
     display: flex;
@@ -91,7 +85,6 @@ img {
 }
 
 
-
 .my-plan {
     padding: 50px 0;
 }
@@ -120,8 +113,6 @@ img {
     color: gray;
     font-weight: 500;
 }
-
-
 
 .call-section {
     background: url('../images/watch.png') no-repeat center center;
@@ -166,9 +157,6 @@ img {
     cursor: pointer;
     width: 160px;
 }
-
-
-
 
 .last-part {
     background: black;
